@@ -221,12 +221,12 @@
 
 
 2. 이상 탐지 문단(그림 4)
-- 그림 4(Anomaly Score)에 대한 Raw Data 보내기
+- 그림 4(Anomaly Score)에 대한 Raw Data 보내기 ✅
 - 문턱값 수치 넣기, Scattering plot
 
 3. 성능 결과 문단(그림 6)
-- 그림 6(Confusion Matrix)에 대한 Raw Data 보내기
-- 그림 6(ROC Curve)에 대한 Raw Data 보내기
+- 그림 6(Confusion Matrix)에 대한 Raw Data 보내기 ✅
+- 그림 6(ROC Curve)에 대한 Raw Data 보내기 ✅
 - 그림 6(PPT 기준)은 논문에 있는 형식을 따라서 제작할 것
 
 4. TRACE-GPT 모델 모식도
